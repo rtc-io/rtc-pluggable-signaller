@@ -8,6 +8,9 @@ environment.
 
 [![NPM](https://nodei.co/npm/rtc-pluggable-signaller.png)](https://nodei.co/npm/rtc-pluggable-signaller/)
 
+[![stable](https://img.shields.io/badge/stability-stable-green.svg)](https://github.com/dominictarr/stability#stable) 
+[![Gitter chat](https://badges.gitter.im/rtc-io.png)](https://gitter.im/rtc-io)
+
 
 
 ## How it Works
@@ -24,7 +27,7 @@ object that is compliant with the rtc.io signalling API).
 
 ### Apache 2.0
 
-Copyright 2015 Damon Oehlman <damon.oehlman@nicta.com.au>
+Copyright 2013 - 2015 National ICT Australia Limited (NICTA)
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
