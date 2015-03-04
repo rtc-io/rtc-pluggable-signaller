@@ -1,0 +1,26 @@
+{
+  "name": "rtc-pluggable-signaller",
+  "version": "1.0.0",
+  "description": "Use either rtc-signaller or your own signaller which matches the signaller API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rtc-io/rtc-pluggable-signaller.git"
+  },
+  "keywords": [
+    "rtc.io",
+    "signalling"
+  ],
+  "author": "Damon Oehlman <damon.oehlman@nicta.com.au>",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/rtc-io/rtc-pluggable-signaller/issues"
+  },
+  "homepage": "https://github.com/rtc-io/rtc-pluggable-signaller",
+  "dependencies": {
+    "rtc-signaller": "^5.2.3"
+  }
+}
