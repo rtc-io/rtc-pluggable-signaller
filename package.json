@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/rtc-io/rtc-pluggable-signaller",
   "dependencies": {
-    "rtc-signaller": "^5.2.3"
+    "rtc-signaller": "^5.2.3",
+    "rtc-switchboard-messenger": "^1.0.0"
   }
 }
