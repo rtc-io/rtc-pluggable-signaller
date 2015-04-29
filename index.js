@@ -22,7 +22,7 @@ module.exports = function(opts) {
   var messenger = (opts || {}).messenger || require('rtc-switchboard-messenger');
 
   if (typeof signaller == 'string' || (signaller instanceof String)) {
-    return require('rtc-signaller')(messenger(signaller), opts);
+    return require('rtc-signaller')(messenger(signaller, opts), opts);
   }
 
   return signaller;
