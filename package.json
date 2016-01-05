@@ -1,6 +1,6 @@
 {
   "name": "rtc-pluggable-signaller",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "Use either rtc-signaller or your own signaller which matches the signaller API",
   "main": "index.js",
   "scripts": {
