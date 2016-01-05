@@ -16,13 +16,13 @@
     "signalling"
   ],
   "author": "Damon Oehlman <damon.oehlman@nicta.com.au>",
-  "license": "Apache 2.0",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/rtc-io/rtc-pluggable-signaller/issues"
   },
   "homepage": "https://github.com/rtc-io/rtc-pluggable-signaller",
   "dependencies": {
-    "rtc-signaller": "^6.2.1",
-    "rtc-switchboard-messenger": "^1.2.0"
+    "rtc-signaller": "^6.3.0",
+    "rtc-switchboard-messenger": "^2.0.3"
   }
 }
